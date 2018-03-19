@@ -1,5 +1,5 @@
 # multi-sonic
-Multi Sensor support with low latency for Ultrasonic Sensor HC-SR04
+Multi Sensor support with low latency for Ultrasonic Sensor HC-SR04 on Arduino
 
   Created by Gilad Nahor.
 
